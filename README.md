@@ -6,5 +6,6 @@
 
 # 🥇 Certificates
 **SoloLearn:**
-![Certificate Introduction to C++.](/Certificates/SoloLearn%20-%20Intro%20to%20C++.jpg)
-![Certificate Intermediate C++](/Certificates/SoloLearn%20-%20Inter%20C++.jpg)
+</br>
+  <img src="/Certificates/SoloLearn - Intro to C++.jpg" width="400" >
+  <img src="/Certificates/SoloLearn - Inter C++.jpg" width="400">
